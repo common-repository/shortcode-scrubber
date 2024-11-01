@@ -1,0 +1,392 @@
+# Copyright (C) 2020 Micah Wood
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode Scrubber 1.0.3\n"
+"Report-Msgid-Bugs-To: https://github.com/wpscholar-wp-plugins/shortcode-scrubber/issues\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: shortcode-scrubber\n"
+
+#. Plugin Name of the plugin
+msgid "Shortcode Scrubber"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpscholar.com/wordpress-plugins/shortcode-scrubber/"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful tool for cleaning up shortcodes on your site and confidently managing plugins and themes that use shortcodes."
+msgstr ""
+
+#. Author of the plugin
+msgid "Micah Wood"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpscholar.com"
+msgstr ""
+
+#: autoload/Shortcode.php:208
+msgid "WordPress"
+msgstr ""
+
+#: autoload/Shortcode.php:217
+msgid "Unknown Plugin"
+msgstr ""
+
+#: autoload/Shortcode.php:233
+msgid "Unknown"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:153
+#: autoload/ShortcodeListTable.php:102
+#: templates/form-select-shortcode.php:16
+msgid "Shortcode"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:154
+#: autoload/ShortcodeFilterListTable.php:293
+#: autoload/ShortcodeListTable.php:375
+#: autoload/ShortcodePostListTable.php:303
+#: autoload/ShortcodeWidgetListTable.php:305
+msgid "Filter"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:155
+msgid "Description"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:198
+#: autoload/ShortcodeListTable.php:255
+msgid "Manage"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:203
+#: autoload/ShortcodeListTable.php:256
+#: includes/hooks.php:62
+#: includes/hooks.php:63
+msgid "Find Post Usages"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:208
+#: autoload/ShortcodeListTable.php:257
+#: includes/hooks.php:88
+#: includes/hooks.php:89
+msgid "Find Widget Usages"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:213
+msgid "Delete"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:267
+#: autoload/ShortcodeFilterListTable.php:270
+#: autoload/ShortcodePostListTable.php:289
+#: autoload/ShortcodePostListTable.php:292
+#: autoload/ShortcodeWidgetListTable.php:294
+#: autoload/ShortcodeWidgetListTable.php:297
+msgid "Filter By Shortcode"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:279
+#: autoload/ShortcodeWidgetListTable.php:270
+#: autoload/ShortcodeWidgetListTable.php:273
+msgid "Filter By Widget Area"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:282
+msgid "Filter By Shortcode Filter"
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:298
+#: autoload/ShortcodePostListTable.php:308
+#: autoload/ShortcodeWidgetListTable.php:310
+msgid "Shortcodes displayed in red are not registered in WordPress."
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:307
+msgid "No shortcode filters found."
+msgstr ""
+
+#: autoload/ShortcodeFilterListTable.php:319
+#: autoload/ShortcodeFilterListTable.php:322
+#: autoload/ShortcodePostListTable.php:328
+#: autoload/ShortcodePostListTable.php:331
+#: autoload/ShortcodeWidgetListTable.php:331
+#: autoload/ShortcodeWidgetListTable.php:334
+msgid "Search by Shortcode"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:103
+msgid "Context"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:104
+msgid "Provider"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:213
+msgid "Theme (Child)"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:215
+msgid "Theme (Parent)"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:268
+msgid "No shortcodes found."
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:278
+msgid "Core"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:279
+msgid "Plugin"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:280
+msgid "Theme"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:349
+#: autoload/ShortcodeListTable.php:352
+msgid "Filter By Context"
+msgstr ""
+
+#: autoload/ShortcodeListTable.php:361
+#: autoload/ShortcodeListTable.php:364
+msgid "Filter By Provider"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:94
+#: autoload/ShortcodeWidgetListTable.php:127
+msgid "Title"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:95
+msgid "Post Type"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:96
+msgid "Post Status"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:97
+#: autoload/ShortcodeWidgetListTable.php:130
+msgid "Shortcodes In Use"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:98
+msgid "Date"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:140
+msgid "Unpublished"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:144
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#. translators: human time diff
+#: autoload/ShortcodePostListTable.php:152
+msgid "%s ago"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:154
+msgid "Y/m/d"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:159
+msgid "Published"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:162
+msgid "Missed schedule"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:164
+msgid "Scheduled"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:167
+msgid "Last Modified"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:193
+#: autoload/ShortcodeWidgetListTable.php:188
+msgid "Edit"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:196
+msgid "View"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:274
+#: autoload/ShortcodePostListTable.php:277
+msgid "Filter By Post Type"
+msgstr ""
+
+#: autoload/ShortcodePostListTable.php:316
+msgid "No posts found."
+msgstr ""
+
+#: autoload/ShortcodeWidgetListTable.php:128
+msgid "Widget Area"
+msgstr ""
+
+#: autoload/ShortcodeWidgetListTable.php:129
+msgid "Widget Type"
+msgstr ""
+
+#: autoload/ShortcodeWidgetListTable.php:282
+#: autoload/ShortcodeWidgetListTable.php:285
+msgid "Filter By Widget Type"
+msgstr ""
+
+#: autoload/ShortcodeWidgetListTable.php:319
+msgid "No widgets found."
+msgstr ""
+
+#: includes/functions.php:196
+#: includes/functions.php:271
+msgid "Inactive Widgets"
+msgstr ""
+
+#: includes/hooks.php:35
+#: includes/hooks.php:36
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/hooks.php:51
+#: includes/hooks.php:77
+#: includes/hooks.php:103
+#: includes/hooks.php:143
+msgid "Number of items per page"
+msgstr ""
+
+#: includes/hooks.php:114
+#: includes/hooks.php:115
+#: templates/shortcode-filters.php:12
+msgid "Shortcode Filters"
+msgstr ""
+
+#: includes/hooks.php:160
+#: includes/hooks.php:161
+msgid "Manage Filters"
+msgstr ""
+
+#: includes/hooks.php:202
+msgid "Check for Shortcodes"
+msgstr ""
+
+#: includes/shortcode-filters.php:13
+msgid "Strip"
+msgstr ""
+
+#: includes/shortcode-filters.php:14
+msgid "Removes all instances of this shortcode and discards the shortcode content."
+msgstr ""
+
+#: includes/shortcode-filters.php:24
+msgid "Disable"
+msgstr ""
+
+#: includes/shortcode-filters.php:25
+msgid "Removes all instances of this shortcode, but keeps the shortcode content."
+msgstr ""
+
+#: templates/form-manage-shortcode.php:29
+msgid "Filter applied."
+msgstr ""
+
+#: templates/form-manage-shortcode.php:31
+#: templates/form-manage-shortcode.php:44
+msgid "View all filters"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:42
+msgid "Filter removed."
+msgstr ""
+
+#. translators: shortcode name
+#: templates/form-manage-shortcode.php:55
+msgid "Shortcode: %s"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:61
+msgid "Select the filter you would like to apply:"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:78
+msgid "Advanced Options"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:85
+msgid "Apply this filter permanently"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:87
+msgid "This operation is irreversible! By selecting this option, you verify that you have a recent backup of your database."
+msgstr ""
+
+#: templates/form-manage-shortcode.php:92
+msgid "Apply"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:93
+msgid "Clear"
+msgstr ""
+
+#: templates/form-manage-shortcode.php:95
+msgid "Cancel"
+msgstr ""
+
+#: templates/form-select-shortcode.php:18
+msgid "Select a Shortcode"
+msgstr ""
+
+#: templates/form-select-shortcode.php:28
+msgid "OR"
+msgstr ""
+
+#: templates/form-select-shortcode.php:32
+msgid "Type the name of a shortcode"
+msgstr ""
+
+#: templates/form-select-shortcode.php:37
+msgid "Continue"
+msgstr ""
+
+#: templates/shortcode-filters.php:14
+msgid "Add New"
+msgstr ""
+
+#: templates/shortcode-manage-filters.php:17
+msgid "Manage Shortcode Filters"
+msgstr ""
+
+#: templates/shortcode-manage-filters.php:18
+msgid "Shortcode filters allow you control how specific shortcodes are rendered on your site. By default, they are temporary and easily reversible."
+msgstr ""
+
+#: templates/shortcode-post-usages.php:12
+msgid "Posts Using Shortcodes"
+msgstr ""
+
+#: templates/shortcode-widget-usages.php:12
+msgid "Widgets Using Shortcodes"
+msgstr ""
+
+#: templates/shortcodes.php:12
+msgid "Registered Shortcodes"
+msgstr ""
